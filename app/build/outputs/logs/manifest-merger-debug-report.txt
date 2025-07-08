@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:1:1-25:12
-INJECTED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:1:1-25:12
+ADDED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:1:1-26:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /data/data/com.termux/files/home/.gradle/caches/8.14.3/transforms/1fc3bdc27e709b6afd60c44905a18557/transformed/jetified-appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.appcompat:appcompat:1.6.1] /data/data/com.termux/files/home/.gradle/caches/8.14.3/transforms/7da6dfcf156723ab588d2fa61dfd92ea/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.webkit:webkit:1.8.0] /data/data/com.termux/files/home/.gradle/caches/8.14.3/transforms/a55e12336657396284a77c56d97d2991/transformed/webkit-1.8.0/AndroidManifest.xml:2:1-7:12
@@ -64,9 +64,9 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/
 	android:icon
 		ADDED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:5:9-43
 	android:allowBackup
-		ADDED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:7:9-35
+		ADDED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:8:9-49
+		ADDED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:7:9-49
 activity#com.justadudeinspace.twrpbuilder.SplashActivity
 ADDED from /data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:10:9-18:20
 	android:exported

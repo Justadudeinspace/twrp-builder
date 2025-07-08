@@ -22,7 +22,7 @@
 17    <application
 17-->/data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:4:5-24:19
 18        android:allowBackup="true"
-18-->/data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:7:9-35
+18-->/data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:8:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.9.0] /data/data/com.termux/files/home/.gradle/caches/8.14.3/transforms/43946f6e46ab792bda5c892876c65f84/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
 20        android:debuggable="true"
@@ -32,7 +32,7 @@
 23        android:label="TWRP Builder"
 23-->/data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:6:9-37
 24        android:theme="@style/Theme.TWRPBuilder" >
-24-->/data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:8:9-49
+24-->/data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:7:9-49
 25        <activity
 25-->/data/data/com.termux/files/home/twrp-builder/app/src/main/AndroidManifest.xml:10:9-18:20
 26            android:name="com.justadudeinspace.twrpbuilder.SplashActivity"
