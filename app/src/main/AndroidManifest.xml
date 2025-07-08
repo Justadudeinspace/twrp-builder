@@ -2,12 +2,11 @@
     package="com.justadudeinspace.twrpbuilder">
 
     <application
-        android:icon="@mipmap/T"
+        android:icon="@mipmap/ic_launcher"
         android:label="TWRP Builder"
         android:allowBackup="true"
         android:theme="@style/Theme.TWRPBuilder">
 
-        <!-- Splash screen shown at app start -->
         <activity
             android:name=".SplashActivity"
             android:exported="true"
@@ -18,11 +17,9 @@
             </intent-filter>
         </activity>
 
-        <!-- Main WebView activity -->
         <activity
             android:name=".MainActivity"
             android:exported="true"
             android:theme="@style/Theme.TWRPBuilder" />
     </application>
-
 </manifest>

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.justadudeinspace.twrpbuilder.app-debug-21:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.justadudeinspace.twrpbuilder.app-main-23:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.justadudeinspace.twrpbuilder.app-debug-21:/layout_activity_splash.xml.flat",
+        "source": "com.justadudeinspace.twrpbuilder.app-main-23:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.justadudeinspace.twrpbuilder.app-debug-21:/mipmap-anydpi-v26_ic_launcher.png.flat",
+        "source": "com.justadudeinspace.twrpbuilder.app-main-23:/mipmap-anydpi-v26/ic_launcher.png"
+    },
+    {
+        "merged": "com.justadudeinspace.twrpbuilder.app-debug-21:/layout_splash_screen.xml.flat",
+        "source": "com.justadudeinspace.twrpbuilder.app-main-23:/layout/splash_screen.xml"
+    },
+    {
+        "merged": "com.justadudeinspace.twrpbuilder.app-debug-21:/drawable_splash.png.flat",
+        "source": "com.justadudeinspace.twrpbuilder.app-main-23:/drawable/splash.png"
+    }
+]

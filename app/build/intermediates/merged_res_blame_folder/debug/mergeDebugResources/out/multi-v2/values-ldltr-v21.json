@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.justadudeinspace.twrpbuilder.app-mergeDebugResources-19:/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/.gradle/caches/8.14.3/transforms/7da6dfcf156723ab588d2fa61dfd92ea/transformed/appcompat-1.6.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}
