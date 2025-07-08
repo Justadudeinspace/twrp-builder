@@ -1,11 +1,11 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.justadudeinspace.twrpbuilder">
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
 
     <application
         android:icon="@mipmap/ic_launcher"
         android:label="TWRP Builder"
-        android:theme="@style/Theme.TWRPBuilder"
-        android:allowBackup="true">
+        android:allowBackup="true"
+        android:theme="@style/Theme.TWRPBuilder">
 
         <activity
             android:name=".SplashActivity"

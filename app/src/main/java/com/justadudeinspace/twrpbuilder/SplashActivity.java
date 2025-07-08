@@ -14,10 +14,9 @@ public class SplashActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.splash_screen); // Make sure this matches your XML filename (res/layout/splash_screen.xml)
+        setContentView(R.layout.splash_screen);
 
         ImageView splashImage = findViewById(R.id.splash_image);
-
         try {
             InputStream is = getAssets().open("splash.png");
             Drawable d = Drawable.createFromStream(is, null);
@@ -29,6 +28,8 @@ public class SplashActivity extends Activity {
         new Handler().postDelayed(() -> {
             startActivity(new Intent(SplashActivity.this, MainActivity.class));
             finish();
-        }, 2000); // Show splash for 2 seconds
+        }, 2000);
     }
 }
+
+
