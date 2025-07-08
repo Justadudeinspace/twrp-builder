@@ -4,8 +4,8 @@
     <application
         android:icon="@mipmap/ic_launcher"
         android:label="TWRP Builder"
-        android:allowBackup="true"
-        android:theme="@style/Theme.TWRPBuilder">
+        android:theme="@style/Theme.TWRPBuilder"
+        android:allowBackup="true">
 
         <activity
             android:name=".SplashActivity"
@@ -22,4 +22,5 @@
             android:exported="true"
             android:theme="@style/Theme.TWRPBuilder" />
     </application>
+
 </manifest>
