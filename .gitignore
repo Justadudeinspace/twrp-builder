@@ -1,0 +1,112 @@
+# ------------------------------
+# 📦 Android/Java Build Outputs
+# ------------------------------
+/build/
+/*/build/
+*/build/
+
+# 🗂 Android Studio & IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+*.hprof
+
+# ⚙️ Gradle
+.gradle/
+/gradle/
+/gradlew
+/gradlew.bat
+!gradle/wrapper/gradle-wrapper.properties
+
+# 🔐 Local Configuration (DON'T COMMIT THIS)
+local.properties
+
+# 🧱 Signing keys and secrets
+*.keystore
+*.jks
+*.pem
+*.der
+*.p12
+secrets.properties
+keystore.properties
+
+# 🗃 Proguard cache
+proguard/
+proguard-rules.pro
+
+# 📄 Log files & reports
+*.log
+*.xml
+*.json
+*.txt
+*.out
+
+# 🏗 AAPT2 or generated resource/compile outputs
+app/build/
+app/release/
+app/debug/
+*/intermediates/
+*/generated/
+
+# ⚙️ Caches and state
+.cache/
+.cxx/
+.externalNativeBuild/
+recovery.log
+
+# 📁 Device Tree Exports (if exported at runtime)
+device_tree/
+exported/
+output/
+
+# ⛔ TWRP Builder Local Outputs
+*.img
+*.zip
+*.bin
+*.dtb
+*.elf
+*.simg
+*.new.dat*
+*.tar
+
+# 📁 Termux Files
+*.termux/
+termux-*
+termux.properties
+.DS_Store
+
+# 🧪 Jekyll Build
+_site/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
+# 🔧 Shell history or system logs
+.history
+.bash_history
+.zsh_history
+.bashrc_backup
+.termux_history
+
+# 🚫 Misc system clutter
+*.swp
+*.tmp
+*.bak
+*~
+*.orig
+*.rej
+
+# 🧠 AI / Code Assist Outputs
+__pycache__/
+*.pyc
+node_modules/
+.vscode/
+*.code-workspace
+.env
+.env.*
+
+# ✅ Optional: GitHub Actions runner cache
+.github/workflows/*.log
+.github/cache/
+.github/build/
