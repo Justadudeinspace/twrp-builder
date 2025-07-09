@@ -59,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
                     while ((line = reader.readLine()) != null) {
                         final String logLine = line;
                         runOnUiThread(() -> {
-                            webView.evaluateJavascript("appendLog(`" + logLine.replace("`", "\`") + "`);", null);
+                            webView.evaluateJavascript("appendLog(`" + logLine.replace("`", "\\`") + "`);", null);
                         });
                     }
                 } catch (Exception e) {
