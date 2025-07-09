@@ -1,4 +1,3 @@
-
 package com.justadudeinspace.twrpbuilder;
 
 import android.Manifest;
@@ -88,12 +87,12 @@ public class MainActivity extends AppCompatActivity {
                     su.waitFor();
 
                     runOnUiThread(() -> {
-                        webView.evaluateJavascript("appendLog(`" + logLine.replace("`", "\\`") + "`);", null);
+                        webView.evaluateJavascript("appendLog(`Backup complete for partition: " + name + "`);", null);
                     });
 
                 } catch (Exception e) {
                     runOnUiThread(() -> {
-                        webView.evaluateJavascript("appendLog(`" + logLine.replace("`", "\\`") + "`);", null);
+                        webView.evaluateJavascript("appendLog(`Backup failed for partition: " + name + "`);", null);
                     });
                 }
             }).start();
