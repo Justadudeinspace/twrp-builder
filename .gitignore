@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+# Gradle build artifacts
+.gradle/
+build/
+*.log
+=======
 # ------------------------------
 # 📦 Android/Java Build Outputs
 # ------------------------------
@@ -110,3 +116,4 @@ node_modules/
 .github/workflows/*.log
 .github/cache/
 .github/build/
+>>>>>>> main
