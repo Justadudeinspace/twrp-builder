@@ -6,6 +6,7 @@ on:
   pull_request:
     branches: [ "main" ]
 
+jobs:
   android-build:
     runs-on: ubuntu-latest
     steps:
@@ -22,4 +23,3 @@ on:
         with:
           name: twrp-builder-apk
           path: app/build/outputs/apk/debug/app-debug.apk
-          
