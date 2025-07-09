@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/logo.png" width="160" alt="TWRP Builder Logo" />
+  <img src="./app/src/main/res/mipmap-anydpi-v26/ic_launcher.png" width="160" alt="TWRP Builder Logo" />
 </p>
 
 <h1 align="center">TWRP Builder</h1>
