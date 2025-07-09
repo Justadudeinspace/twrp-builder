@@ -88,12 +88,12 @@ public class MainActivity extends AppCompatActivity {
                     su.waitFor();
 
                     runOnUiThread(() -> {
-                        webView.evaluateJavascript("appendLog(`✔ Backed up " + name + " to " + outputPath + "`);", null);
+                        webView.evaluateJavascript("appendLog(`" + logLine.replace("`", "\\`") + "`);", null);
                     });
 
                 } catch (Exception e) {
                     runOnUiThread(() -> {
-                        webView.evaluateJavascript("appendLog(`✘ Error backing up " + name + ": " + e.getMessage() + "`);", null);
+                        webView.evaluateJavascript("appendLog(`" + logLine.replace("`", "\\`") + "`);", null);
                     });
                 }
             }).start();
