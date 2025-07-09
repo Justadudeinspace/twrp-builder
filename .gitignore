@@ -1,0 +1,4 @@
+# Gradle build artifacts
+.gradle/
+build/
+*.log
