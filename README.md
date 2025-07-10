@@ -1,4 +1,7 @@
 
+<p align="center">
+  <img src="app/src/main/res/mipmap-anydpi-v26/ic_launcher.png" alt="~JADIS" width="350"/>
+</p>
 
 # TWRP Builder
 
