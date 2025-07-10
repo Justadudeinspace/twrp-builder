@@ -1,6 +1,6 @@
 
 
-# TWRP Builder by JADIS
+# TWRP Builder
 
 </head>
 <body class="p-6">
@@ -12,16 +12,26 @@
     </blockquote><h1 class="text-3xl font-bold mb-4">TWRP Builder by JADIS</h1>
 <p class="mb-6">TWRP Builder is a self-contained, Android-native recovery image generation tool. Built entirely using Termux, Python, and HTML UI components, it's designed for creators who code in the void without a PC.</p>
 
-<h2 class="text-2xl font-semibold mt-8 mb-2">⚙ Features</h2>
-<ul class="list-disc pl-6">
-  <li>Device Tree Generator (twrpdtgen)</li>
-  <li>Custom BoardConfig.mk Flag Editor</li>
-  <li>Partition Backup Manager (dd)</li>
-  <li>Live ADB Shell Interface</li>
-  <li>Logcat Terminal with Auto-scroll</li>
-  <li>Settings Manager: logs, backups, dark mode</li>
-  <li>JADIS Artistic Manifesto Embed</li>
-</ul>
+Current Status: 🧠 In Heavy Development / Under Full Construction 
+
+⚠️ No PC Involved - Entire Project Built Using Android Environment (Pixel 6 Pro w/ Root)
+
+# 🔥 Features:
+- Web UI Design System for HTML5/JS Mobile App Deployment
+- Termux Backed TWRP Build Scripts
+- TWRP Device Tree Generation with twrpdtgen
+- Flashable Zip Packing
+- GitHub Action Support (CI/CD Workflow Planned)
+- No-PC Philosophy
+- Fully Modular and Expandable
+- Direct ADB/Fastboot Terminal Interface (Planned)
+- Secure Partition Backup / Restore Support (Planned)
+
+# 🎯 Goals:
+- One-Touch TWRP Build for Any Device
+- Make Custom Recovery Building Accessible for Android-Only Devs
+- Open Source, Free, Mobile-First Dev Toolkit
+
 
 <h2 class="text-2xl font-semibold mt-8 mb-2">🎓 Developer Manifesto</h2>
 <p class="mb-6">
