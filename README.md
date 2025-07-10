@@ -14,14 +14,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![Acode](https://img.shields.io/badge/-Acode-1A73E8?logo=google-play&logoColor=white)
-![Open Source](https://img.shields.io/badge/-Open%20Source-0080FF?logo=github&logoColor=whit
-
+![Open Source](https://img.shields.io/badge/-Open%20Source-0080FF?logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.5.0-blue)
 ![GitHub license](https://img.shields.io/github/license/Justadudeinspace/twrp-builder)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Justadudeinspace/twrp-builder)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Justadudeinspace/twrp-builder)
-![Static Badge](https://img.shields.io/badge/Contact_By-Email-red?style=flat&logoSize=auto&color=black&cacheSeconds=3800&link=justadudeinspace4244%40hotmsil.com)
+![Static Badge](https://img.shields.io/badge/Contact_By-Email-red?style=flat&logoSize=auto&color=black&cacheSeconds=3800&link=justadudeinspace4244@hotmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?logo=telegram)](https://t.me/Justadudeinspace)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb6Ps5W7oQhlQSkw7a21)
 
