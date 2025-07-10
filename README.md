@@ -7,22 +7,31 @@
 
 <div align="center">
 
+<!-- Platform Badges -->
+<img src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/-Termux-000000?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
+<!-- IDE / Toolchain -->
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/-Acode-1A73E8?style=flat-square&logo=google-play&logoColor=white" />
 
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
-![Termux](https://img.shields.io/badge/-Termux-000000?logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-![Acode](https://img.shields.io/badge/-Acode-1A73E8?logo=google-play&logoColor=white)
-![Open Source](https://img.shields.io/badge/-OpenSource-000000?logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
-![Version](https://img.shields.io/badge/version-1.5.0-blue)
-![GitHub license](https://img.shields.io/github/license/Justadudeinspace/twrp-builder)
-![GitHub last commit](https://img.shields.io/github/last-commit/Justadudeinspace/twrp-builder)
-![GitHub repo size](https://img.shields.io/github/repo-size/Justadudeinspace/twrp-builder)
-![Static Badge](https://img.shields.io/badge/Contact_By-Email-red?style=flat&logoSize=auto&color=black&cacheSeconds=3800&link=justadudeinspace4244@hotmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?logo=telegram)](https://t.me/Justadudeinspace)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb6Ps5W7oQhlQSkw7a21)
+<!-- Project Info -->
+<img src="https://img.shields.io/badge/-OpenSource-000000?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/version-1.5.0-blue?style=flat-square" />
+<img src="https://img.shields.io/github/license/Justadudeinspace/twrp-builder?style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/Justadudeinspace/twrp-builder?style=flat-square" />
+<img src="https://img.shields.io/github/repo-size/Justadudeinspace/twrp-builder?style=flat-square" />
+
+<!-- Contact -->
+<img src="https://img.shields.io/badge/Contact_By-Email-black?style=flat-square&logo=gmail&logoColor=red&link=mailto:justadudeinspace4244@hotmail.com" />
+<a href="https://t.me/Justadudeinspace">
+  <img src="https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
+</a>
+<a href="https://whatsapp.com/channel/0029Vb6Ps5W7oQhlQSkw7a21">
+  <img src="https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+</a>
 
 </div>
 
