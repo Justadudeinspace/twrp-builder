@@ -2,6 +2,19 @@
 
 # TWRP Builder
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
+![Version](https://img.shields.io/badge/version-1.5.0-blue)
+![GitHub license](https://img.shields.io/github/license/Justadudeinspace/twrp-builder)
+![GitHub last commit](https://img.shields.io/github/last-commit/Justadudeinspace/twrp-builder)
+![GitHub repo size](https://img.shields.io/github/repo-size/Justadudeinspace/twrp-builder)
+![Static Badge](https://img.shields.io/badge/Contact_By-Email-red?style=flat&logoSize=auto&color=black&cacheSeconds=3800&link=justadudeinspace4244%40hotmsil.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Chat-2CA5E0?logo=telegram)](https://t.me/Justadudeinspace)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Join%20Channel-25D366?logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb6Ps5W7oQhlQSkw7a21)
+
+</div>
+
 </head>
 <body class="p-6">
   <div class="max-w-4xl mx-auto">
