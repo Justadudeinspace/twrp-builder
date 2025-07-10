@@ -1,8 +1,20 @@
 
+<p align="center">
+  <img src="app/src/main/res/mipmap-anydpi-v26/ic_launcher.png" alt="~JADIS" width="350"/>
+</p>
 
 # TWRP Builder
 
 <div align="center">
+
+
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
+![Termux](https://img.shields.io/badge/-Termux-000000?logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+![Acode](https://img.shields.io/badge/-Acode-1A73E8?logo=google-play&logoColor=white)
+![Open Source](https://img.shields.io/badge/-Open%20Source-0080FF?logo=github&logoColor=whit
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)
 ![Version](https://img.shields.io/badge/version-1.5.0-blue)
